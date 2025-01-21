@@ -1,5 +1,5 @@
 Projet Yubino :
-Dans ce projet nous allons concevoir un programme pour notre Arduino permettant de l'utiliser en tant qu'un Authenticator.
+Dans ce projet nous allons concevoir un programme  sur Arduino permettant de l'utiliser en tant qu'Authenticator.
 (voir sujet du projet)
 
 Matériel utilisé :
